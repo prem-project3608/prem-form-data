@@ -5,7 +5,7 @@
   "version": "5.0.0",
   "repository": {
     "type": "git",
-    "url": "git://github.com/form-data/form-data.git"
+    "url": "https://github.com/prem-project3608/prem-form-data.git"
   },
   "main": "./lib/form_data",
   "browser": "./lib/browser",
